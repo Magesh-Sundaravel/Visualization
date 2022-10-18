@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MageshMacpeth
-- 👀 I’m interested in python with automation
-- 🌱 I’m currently learning automation with python
-- 💞️ I’m looking to collaborate on Automation
+- 👀 I’m interested in python with machine learning
+- 🌱 I’m currently learning Machine learning with python
+- 💞️ I’m looking to collaborate on Data science by using Machine Learning
 - 📫 How to reach me by email
 
 <!---
